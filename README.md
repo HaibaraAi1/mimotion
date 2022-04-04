@@ -1,4 +1,4 @@
-# mimotion aaaa
+# mimotion bb
 
 # 小米运动自动刷步数
 
